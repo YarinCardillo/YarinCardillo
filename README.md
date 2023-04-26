@@ -1,6 +1,6 @@
-- 👋 :@YarinCardillo: Engineering student, Music producer
+- 👋 :@YarinCardillo: Engineering student, Music producer and Mix engineer
 - 👀 :interestests: in Software Engineering, Network and PenTesting, Reverse Engineering, Audio and Signals, Generative Art, Music Production
-- 🌱 :learning: Computer Science Engineering (PoliTO)
+- 🌱 :learning: Computer Engineering (PoliTO)
 - 📫 :reach.me: yarin.cardillo@icloud.com | linktree on profile | currently working on building the website and blog for all my works and research
 
 <!---
