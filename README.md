@@ -1,6 +1,6 @@
 - 👋 :@YarinCardillo: Audio Engineer
 - 👀 :interests: Audio and Signals, Software Engineering, Reverse Engineering, music, dogs, and cars
-- 🌱 :learning: Unreal Engine 5
+- 🌱 :learning: DSP
 - 📫 :reach.me: yarin.cardillo@gmail.com | yarincardillo.com
 
 <!---
